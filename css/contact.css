@@ -1,0 +1,82 @@
+.formulaire-table{
+    width: 100%;
+    border-collapse: collapse; 
+}
+
+.formulaire-table tr{
+    height: 7rem;
+}
+
+.formulaire-table th {
+    width: 150px;
+    
+    text-align: right; 
+   
+}
+
+.formulaire-table td {
+
+    width: 480px;
+    
+}
+
+.formulaire-table tr:last-child th{
+    border-color: #B1B1B1;
+}
+
+.envoie {
+    display: table;
+}
+
+.envoie {
+    width: 100%;
+    display: table;
+}
+
+.envoie p{
+    display: table-cell;
+    text-align: center;
+    
+}
+
+.genre {
+    margin-left: 10px;
+}
+
+.envoie p button{
+    margin-top: 50px;
+    font-size: 3rem;
+    color: #fff;
+    background-color: #008B8B;
+    padding: 10px;
+    
+}
+
+.envoie p button:hover {
+    opacity: 0.5;
+}
+
+.entre {
+    width: 480px;
+    height: 3rem;
+    border: solid 1px;
+    margin-left: 10px;
+}
+
+.message {
+    width: 480px;
+    height: 7rem;
+    border: solid 1px;
+    margin-left: 10px;
+}
+
+.formulaire-table:last-child td {
+    text-align: center;
+    vertical-align: middle;
+    width: 500px;
+}
+
+
+
+
+
