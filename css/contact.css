@@ -76,7 +76,21 @@
     width: 500px;
 }
 
-
+.active-lien{
+    background-color: #FCECEC;
+  }
+  
+  .active-lien a {
+    color: #4D4D4D;
+  }
+  
+  .side_menu .active-lien {
+    background-color: #FCECEC;
+  }
+  
+  .side_menu .active-lien a {
+    color: #4D4D4D;
+  }
 
 
 
